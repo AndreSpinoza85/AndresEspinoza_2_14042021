@@ -1,0 +1,111 @@
+/*body*/
+body
+{
+    font-family: 'Raleway', sans-serif;
+
+}
+#bloc_page
+{
+    width: ;
+    margin: ;
+}
+/*header*/
+header
+{
+     display: flex;
+     flex-direction: row;
+     margin: 10px;
+     padding: 20px;
+}
+#titre_pincipal
+{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+#logo img
+{
+    width: 80px;
+    height: 40px;
+    align-content: flex-end;
+}
+
+header h1
+{
+    font-size: 1.2em;
+    text-align: center;
+   
+}
+
+header h2
+{
+    font-size: 0.85em;
+    font-weight: lighter;
+   
+}
+
+/*Navigation*/
+
+nav ul
+{
+    font-size: x-small;
+    list-style-type: none;
+    font-style: normal;
+    display: flex;
+}
+
+nav li
+{
+    margin-left: 150px;
+    
+}
+nav a
+{
+    font-size: 1em;
+    color: #0065FC;
+    text-decoration: none;
+}
+
+nav :hover
+{
+    color: black;
+    border-top: 1.5px solid #0065FC;
+}
+
+/*section*/
+section
+{
+    background-color: #F2F2F2;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 20px;
+    padding: auto;
+}
+
+
+section h1
+{
+    font-size: 1em;
+    text-align: left; 
+} 
+article 
+{
+    font-size: small;
+    background-color: white;
+}
+
+article img
+{
+    width: 120px;
+    height: 60px;
+    align-content: flex-end;
+}
+article p
+{
+    font-size: 0.60em;
+}
